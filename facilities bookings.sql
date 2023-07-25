@@ -1,7 +1,4 @@
-//The Relational Database has three table facilities, bookings and members
-//facilities--bookings of those facilities--members who booked those facilities
-   
-  1- Retrieving Information from cd.facilities table
+     1- Retrieving Information from cd.facilities table
   
 SELECT * 
 FROM cd.facilities;
